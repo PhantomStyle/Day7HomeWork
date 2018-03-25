@@ -16,7 +16,7 @@ public class Calculator {
                 result *= i;
         }
 
-        if(number == 0){
+        if (number == 0) {
             return 1;
         }
         return result;
